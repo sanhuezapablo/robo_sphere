@@ -1,4 +1,4 @@
-# robo_sphere
+# Robo_Sphere
 ENPM690 - Robot Learning HW3
 
 ## Robot Controlled by Keyboard (robot_keyboard.py)
